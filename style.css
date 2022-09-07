@@ -1,0 +1,13 @@
+.ship{
+    display: block;
+    height: 30vh;
+    margin: auto;
+    padding: 1em;
+}
+
+#ships{
+    text-align: center;
+}
+button{
+    margin: 1em;
+}
